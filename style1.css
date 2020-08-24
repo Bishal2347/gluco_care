@@ -46,7 +46,7 @@
         border-radius: 10px;
     }
     .items img{
-        width: 70px;
+        width: 150px;
         padding:15px 0; 
     }
 
@@ -103,3 +103,35 @@
         font-weight: 300;
     }
     /* footer part-ends */
+
+  
+  
+    .bg{
+        background-image: url(images/Photos/login.png);
+        background-color: #F3F3F3;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: 700px;
+        background-repeat: no-repeat;
+    }
+
+    .fr{
+        text-align: right;
+        padding: 220px;
+        position: relative;
+        
+    }
+    .f{
+       color: #B81C4C;
+    }
+    .bk{
+        margin: 10px;
+    }
+    .bs{
+        background-color: #B81C4C;
+    }
+    .bs:hover{
+        background-color: skyblue;
+    }
+
+   
